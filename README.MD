@@ -85,7 +85,6 @@ Lexica.art：
 </p>
 </p>
 <br/><br/>
-<p>
 
 ---
 
