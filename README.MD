@@ -25,7 +25,8 @@
 # 👨‍💻 Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório é um desafio de projeto proposto no curso na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este repositório é um desafio de projeto proposto no curso "
+Criando Artigos Técnicos com ChatGPT e Lexica.art" na plataforma da [DIO](https://dio.me).
 
 
 
